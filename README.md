@@ -80,27 +80,27 @@ Currently Learning:
 
 <p align="center">
 
-<a href="https://discord.com/users/1425100026022985788">
+<a href="https://discord.com/users/433712887048175626">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://steamcommunity.com/id/ItsRealSunder/">
+<a href="https://steamcommunity.com/id/Reichford/">
 <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 
-<a href="https://youtube.com/@ItsRealSunder">
+<a href="https://youtube.com/@Reichford">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://twitch.tv/ItsRealSunder">
+<a href="https://twitch.tv/Reichford">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
 
-<a href="https://tiktok.com/@ItsRealSunder">
+<a href="https://tiktok.com/@Reichford">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
-<a href="https://t.me/ItsRealSunder">
+<a href="https://t.me/Reichford">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -112,19 +112,19 @@ Currently Learning:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsRealSunder&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Reichford&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRealSunder&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reichford&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRealSunder&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ItsRealSunder&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=Reichford&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsRealSunder&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Reichford&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reichford&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
